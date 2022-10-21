@@ -34,7 +34,7 @@ footer
     }
 .item2
 {   
-    flex-grow: 1;
+    flex-grow: 3;
     height: 400px;
     text-align: center;
     line-height: 400px;
@@ -44,10 +44,10 @@ footer
 }
 .sub
 {
-    margin-top: 50px;
-    height: 120px;
-    width: 120px;
-    line-height: 4;
+    margin-top: 40px;
+    height: 140px;
+    width: 160px;
+    line-height: 5;
     text-align: center;
     background-color: #00A3FE;
     color: white;
