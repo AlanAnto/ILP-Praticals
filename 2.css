@@ -1,0 +1,41 @@
+header
+{
+    text-align: left;
+    padding: 50px;
+    background-color:#2099E8;
+    color: white;
+    font-size: 32px;
+}
+footer
+{
+    text-align: center;
+    padding: 50px;
+    background-color:#00EBFE;
+    color: white;
+    font-size: 32px;
+}
+.container
+{
+    height: 400px;
+    display:flex;
+}
+.item1
+{
+    flex-grow: 2;
+    height: 400px;
+    text-align: center;
+    line-height: 400px;
+    font-size: 72px;
+    background-color: #00FFBD;
+    color: white;
+}
+.item2
+{   
+    flex-grow: 1;
+    height: 400px;
+    text-align: center;
+    line-height: 400px;
+    font-size: 32px;
+    background-color: #FE7C00;
+    color: white;
+}
